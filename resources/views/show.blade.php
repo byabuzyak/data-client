@@ -1,0 +1,22 @@
+<table>
+    <tr>
+        <td>Name:</td>
+        <td>{{$data['name']}}</td>
+    </tr>
+    <tr>
+        <td>Page uid:</td>
+        <td>{{$data['page_uid']}}</td>
+    </tr>
+    <tr>
+        <td>Amount:</td>
+        <td>{{$data['amount']}}</td>
+    </tr>
+    <tr>
+        <td>Currency:</td>
+        <td>{{$data['currency']}}</td>
+    </tr>
+    <tr>
+        <td>Created:</td>
+        <td>{{$data['created']}}</td>
+    </tr>
+</table>
